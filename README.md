@@ -3,7 +3,7 @@
 ## Usage
 
 ```puppet
-include seuqel_pro 
+include sequel_pro
 ```
 
 ## Required Puppet Modules
